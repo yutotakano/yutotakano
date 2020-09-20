@@ -1,6 +1,6 @@
 ## Hi! I'm Yuto.
 
-I am an undergraduate student for Computer Science.
+I am a Computer Science undergraduate.
 
 Preferred pronouns: He / Him / His
 
