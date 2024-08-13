@@ -1,6 +1,6 @@
 ## Hi! I'm Yuto.
 
-I am a Computer Science undergraduate student.
+I am a Computer Science Masters student at ETH Zurich.
 
 Preferred pronouns: He / Him / His
 
