@@ -1,6 +1,6 @@
 ## Hi! I'm Yuto.
 
-I am a Computer Science Masters student at ETH Zurich. I completed my Bachelor's at University of Edinburgh in 2024.
+I am a Computer Science Masters student at ETH Zurich. I completed my Bachelor's in 2024 at University of Edinburgh.
 
 Preferred pronouns: He / Him / His
 
