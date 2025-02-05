@@ -1,15 +1,25 @@
 ## Hi! I'm Yuto.
 
-I am a Computer Science student doing a Master's at ETH Zurich. I completed my Bachelor's at University of Edinburgh in 2024.
-
-Preferred pronouns: He / Him / His
-
-I'm also on <a href="https://www.linkedin.com/in/yuto-takano/"><img src="https://www.linkedin.com/favicon.ico" style="width:1rem" /> LinkedIn</a>
+- Currently a Master's student at ETH Zurich
+- Previously completed a Bachelor's degree at University of Edinburgh in 2024
+- I'm also on <a href="https://www.linkedin.com/in/yuto-takano/"><img src="https://www.linkedin.com/favicon.ico" style="width:1rem" /> LinkedIn</a>!
 
 ### What I do
 
-I am a maintainer for the [discord-haskell](https://github.com/discord-haskell/discord-haskell) and [Better Informatics](https://github.com/compsoc-edinburgh/edinburgh-community-solutions) open-source projects.
+I am a maintainer for the following open-source projects:
+- [discord-haskell](https://github.com/discord-haskell/discord-haskell): The most popular Haskell library for interfacing with the Discord API
+- [discord-haskell-voice](https://github.com/yutotakano/discord-haskell-voice): Implementation of the real-time voice call protocol for the above
+- [crypton-box](https://github.com/yutotakano/crypton-box): A Haskell library implementing NaCl's "crypto box" constructs natively
+- [Better Informatics](https://github.com/compsoc-edinburgh/betterinformatics): The go-to knowledgebase for Informatics students at UoE
+- [Better Informatics File Collection](https://github.com/compsoc-edinburgh/betterinformatics-files): The exam study platform used by students at UoE
 
-Some projects I've worked on include an e-ink todo display in C++ ([here](https://github.com/yutotakano/e-paper-todoist)), a 5G packet core implementation in Rust ([here](https://github.com/yutotakano/corekube-rs)), a 3D game built from scratch in C# ([here](https://github.com/HammeredGame/Hammered)), an Haskell library for VoIP calls ([here](https://github.com/yutotakano/discord-haskell-voice)), and a Lua script for the mpv video player ([here](https://github.com/yutotakano/mpvcord)).
+I'm a frequent contributor to the following open-source projects:
+- [community-solutions](https://gitlab.ethz.ch/vseth/sip-com-apps/community-solutions): The most popular exam study platform for all ETH students.
+
+I've previously worked on, or am actively working on the following projects too:
+- [e-paper-todoist](https://github.com/yutotakano/e-paper-todoist): A desk-top e-ink todo display, written in C++
+- [corekube-rs](https://github.com/yutotakano/corekube-rs): A work-in-progress 5G packet core implementation in Rust
+- [Hammered](https://github.com/HammeredGame/Hammered): A 3D game built from scratch in C# (with a team of six)
+- [mpvcord](https://github.com/yutotakano/mpvcord) and [mpv_clock](https://github.com/yutotakano/mpv_clock): Some Lua scripts for the mpv video player
 
 Please don't hestitate to reach out regarding any of these! :)
