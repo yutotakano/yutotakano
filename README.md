@@ -9,7 +9,8 @@
 I am a maintainer for the following open-source projects:
 - [discord-haskell](https://github.com/discord-haskell/discord-haskell): The most popular Haskell library for interfacing with the Discord API
 - [discord-haskell-voice](https://github.com/yutotakano/discord-haskell-voice): Implementation of the real-time voice call protocol for the above
-- [crypton-box](https://github.com/yutotakano/crypton-box): A Haskell library implementing NaCl's "crypto box" constructs natively
+- [crypton-box](https://hackage.haskell.org/package/crypton-box): A Haskell library implementing NaCl's "crypto box" constructs natively
+- [opus](https://hackage.haskell.org/package/opus): Haskell bindings and high-level wrappers around the Opus Audio codec
 - [Better Informatics](https://github.com/compsoc-edinburgh/betterinformatics): The go-to knowledgebase for Informatics students at UoE
 - [Better Informatics File Collection](https://github.com/compsoc-edinburgh/betterinformatics-files): The exam study platform used by students at UoE
 
