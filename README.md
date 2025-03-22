@@ -6,7 +6,7 @@
 
 ### What I do
 
-I am a maintainer for the following open-source projects:
+I maintain the following open-source projects:
 - [discord-haskell](https://github.com/discord-haskell/discord-haskell): The most popular Haskell library for interfacing with the Discord API
 - [discord-haskell-voice](https://github.com/yutotakano/discord-haskell-voice): Implementation of the real-time voice call protocol for the above
 - [crypton-box](https://hackage.haskell.org/package/crypton-box): A Haskell library implementing NaCl's "crypto box" constructs natively
