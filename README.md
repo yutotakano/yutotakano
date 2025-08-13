@@ -20,7 +20,7 @@ I've previously worked on, or am actively working on the following projects too:
 - [e-paper-todoist](https://github.com/yutotakano/e-paper-todoist): A desk-top e-ink todo display, written in C++
 - LeakyBarrel: An implementation of the Barrelfish exokernel OS in C
 - [dave](https://github.com/yutotakano/dave): Haskell FFI bindings to libdave, an audio End-to-End Encryption protocol 
-- [corekube-rs](https://github.com/yutotakano/corekube-rs): A work-in-progress 5G packet core implementation in Rust
+- [corekube-rs](https://github.com/yutotakano/corekube-rs): A work-in-progress 5G packet core implementation in Rust (stalled)
 - [Hammered](https://github.com/HammeredGame/Hammered): A 3D game built from scratch in C# (with a team of six)
 - [mpvcord](https://github.com/yutotakano/mpvcord) and [mpv_clock](https://github.com/yutotakano/mpv_clock): Some Lua scripts for the mpv video player
 
